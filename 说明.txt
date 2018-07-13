@@ -1,6 +1,3 @@
-# roadDetection
-Wuce trajectory data mining group
-
 difference2.py ²î·Ö
 ero_dil.py ¿ªÔËËã
 filter2.py ÂË²¨
